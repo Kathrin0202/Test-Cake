@@ -1,0 +1,110 @@
+@media (max-width: 768px) {
+  .btn_catalog {
+    width: 40px;
+    &_text {
+      display: none;
+    }
+  }
+
+  .head {
+    padding: 0px 20px;
+    &_top {
+      gap: 20px;
+      margin-right: 20px;
+    }
+  }
+
+  .central_top_title {
+    font-size: 24px;
+  }
+
+  .central_top_img {
+    width: 198px;
+    height: 132px;
+    flex-shrink: 0;
+    margin-top: 28px;
+  }
+
+  .central {
+    padding: 60px 16px;
+  }
+
+  .mob {
+    display: none;
+  }
+
+  .groop_title,
+  .specially_title {
+    font-size: 24px;
+  }
+
+  .central_goods {
+    gap: 32px;
+  }
+  .goods_img {
+    width: 204px;
+  }
+
+  .central_groop {
+    margin-top: 100px;
+  }
+  .banner {
+    display: none;
+    &_mob {
+      display: block;
+    }
+  }
+
+  .card {
+    display: none;
+    &_mob {
+      display: block;
+      position: absolute;
+      z-index: 1;
+      right: 0px;
+      top: 0px;
+    }
+    &_box {
+      margin-top: 100px;
+      margin-bottom: 100px;
+    }
+  }
+  .title_card {
+    font-size: 18px;
+  }
+
+  .text_card {
+    font-size: 12px;
+    width: 174px;
+  }
+
+  .specially_text {
+    padding: 20px;
+  }
+  .specially_box {
+    height: 170px;
+  }
+
+  .date {
+    font-size: 8px;
+  }
+
+  .article_title {
+    font-size: 16px;
+  }
+
+  .article_text {
+    font-size: 12px;
+  }
+
+  .article_center {
+    gap: 32px;
+  }
+
+  .foot {
+    padding: 32px 16px;
+    &_menu {
+      gap: 16px;
+    }
+  }
+}
