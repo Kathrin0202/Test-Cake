@@ -8,4 +8,4 @@ https://www.figma.com/file/dfWSDrqvMPFuVf8HI4cGxJ/%D0%A2%D0%B5%D1%81%D1%82%D0%BE
 
 Стэк: HTML, CSS, SCSS
 
-Ссылка на готовую страницу 
+Ссылка на готовую страницу https://kathrin0202.github.io/Test-Cake/
